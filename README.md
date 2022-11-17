@@ -11,7 +11,7 @@ to use:
 
 3)open postman and test it:
 
-http://localhost:8081/comunication?message=Test Hello world
+http://localhost:8081/comunication?message=yourMessage
 
 now you view the message whit a info log in your console!
 
